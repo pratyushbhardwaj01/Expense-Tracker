@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.expenses {
+  background-color: black;
+  color: white;
+}
+.filters {
+  display: flex;
+  justify-content: space-around;
+  height: 2rem;
+  align-items: center;
+  font-weight: 700;
+}
